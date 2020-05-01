@@ -1355,7 +1355,7 @@ url[1349]="https://moshanghua.net/";
 url[1350]="https://blog.endureblaze.cn/";
 url[1351]="https://blog.jiehua1995.xyz/";
 url[1352]="https://www.jfz.xyz/";
-
+url[1353]="https://1thx.com/";
 
       //修正概率
     url[79]="https://you.ci/";
