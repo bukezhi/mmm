@@ -1,11 +1,49 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
- <HEAD>
-  <TITLE>🐟讷鱼 - 游向某一片海洋</TITLE>
-  <meta charset="utf-8">
-  <meta http-equiv="Refresh" content="1; url=https://you.ci/post/neyu/"/>
-  <style type="text/css">a {text-decoration: none}</style>
- </HEAD>
+<!DOCTYPE html>
+<html>
+<head>
+<title>讷鱼 - 游向某一片海洋</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
 
-<BODY><a href="https://you.ci/post/neyu/">🐟🐟🐟</a></BODY>
-</HTML>
+</head>
+<body>
+<div class="box">
+	<div class="logo">
+		🐟🐟🐟 
+	</div>
+	<div class="tip">
+		<small>
+		<div class="ipinfo">
+			<b id="cip"></b><span id="cname"></span>
+		</div>
+		<div>
+			<A HREF="https://you.ci/post/neyu/">无反应点这里</A>
+		</div>
+		<hr>
+		<div>
+			<b>讷鱼 - 游向某一片海洋</b>
+		</div>
+		</small>
+	</div>
+	<div class="progress">
+		<div id="progress-bar" class="progress-bar progress-bar-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+		</div>
+	</div>
+</div>
+<script>
+var url='https://you.ci/post/neyu/';//此处修改要跳转的网址
+function progress(p){document.getElementById("progress-bar").style.width=p+"%"}
+setTimeout(function(){progress("5");setTimeout(function(){progress("60");setTimeout(function(){progress("95");window.location.href=url;},600);},800);},300);
+</script>
+<style>body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.42857143;color:#333;background-color:#fff;margin:0}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+.box{left:50%;top:30%;width:300px;margin-left:-150px;height:200px;bottom:10px;padding:10px;word-break:break-all;position:fixed}
+.logo{text-align:center;margin-bottom:20px}
+.tip{text-align:center;margin-bottom:15px;letter-spacing:1px}
+.progress{height:20px;margin-bottom:20px;overflow:hidden;background-color:#f5f5f5;border-radius:4px;-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,.1);box-shadow:inset 0 1px 2px rgba(0,0,0,.1);height:8px}
+.progress-bar{float:left;width:0%;height:100%;font-size:12px;line-height:20px;color:#fff;text-align:center;background-color:#337ab7;-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,.15);box-shadow:inset 0 -1px 0 rgba(0,0,0,.15);-webkit-transition:width .6s ease;-o-transition:width .6s ease;transition:width .6s ease}
+.progress-bar-success{background-color:#5cb85c}</style>
+</body>
+</html>
