@@ -1,54 +1,15 @@
 {
   "name": "讷鱼",
   "short_name": "讷鱼",
-  "description": "讷鱼",
-  "lang": "cn",
+  "display": "讷鱼",
+  "start_url": "/",
+  "theme_color": "#8888ff",
+  "background_color": "#aaaaff",
   "icons": [
     {
       "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    },
-    {
-      "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "72x72"
-    },
-    {
-      "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "/neyu/neyu.png",
-      "type": "image/png",
-      "sizes": "36x36"
-    }
-  ],
-  "start_url": "/?m",
-  "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#0096ff",
-  "background_color": "#fff",
-  "related_applications": [
-    {
-      "platform": "play",
-      "id": "me.ele",
-      "url": "https://play.google.com/store/apps/details?id=me.ele"
-    },
-    {
-      "platform": "itunes",
-      "url": "https://itunes.apple.com/app/e-le-me-wai-mai-ding-can-mei/id507161324"
+      "sizes": "256x256",
+      "type": "image/png"
     }
   ]
 }
