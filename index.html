@@ -9,7 +9,7 @@
 	<link rel="icon" href="/neyu/neyu.png">
         <link rel="stylesheet" type="text/css" href="/neyu/addtohomescreen.css">
 	<link rel="shortcut icon" href="https://neyu.com/favicon.ico">
-    <script src="/neyu/neyu.js"></script>    
+        <script src="/neyu/neyu.js"></script>    
     <title>讷鱼</title>
 
     <style type="text/css">
@@ -113,14 +113,17 @@
             </tr>
         </tbody>
     </table>
- 
- <script language="javascript">
-     window.setTimeout("window.location.href='javascript:travelling()'",3333);
-  </script>
-			    
  <script src="/neyu/addtohomescreen.js"></script>
 <script>
-addToHomescreen();
+addToHomescreen({
+   startDelay: 1 //开始的间隔		    
+   skipFirstVisit: false, //首次跳过出现，是使用true
+   maxDisplayCount: 99 //最多出现次数
+});
+</script>
+			    
+<script language="javascript">
+     window.setTimeout("window.location.href='javascript:travelling()'",3333);
 </script>
 
 </body>
