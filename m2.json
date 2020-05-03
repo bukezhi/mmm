@@ -1,0 +1,42 @@
+{
+    "orientation": "portrait",
+    "theme_color": "#1fb5ad",
+    "background_color": "#f1f2f7",
+    "display": "standalone",
+    "name": "讷鱼",
+    "start_url": "/?app",
+    "description": "讷鱼",
+    "short_name": "讷鱼",
+    "icons": [
+        {
+            "sizes": "48x48",
+            "src": "/neyu/48.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "/neyu/72.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "96x96",
+            "src": "/neyu/96.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "/neyu/144.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "192x192",
+            "src": "/neyu/192.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "/neyu/512.png",
+            "type": "image/png"
+        }
+    ]
+}
