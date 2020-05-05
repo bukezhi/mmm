@@ -8,6 +8,7 @@
 	<link rel="apple-touch-icon-precomposed" href="//neyu.com/neyu/neyu.png">
 	<link rel="icon" href="//neyu.com/neyu/neyu.png">
 	<link rel="shortcut icon" href="//neyu.com/favicon.ico">
+	<link rel="manifest" href="/manifest.json">	
         <script src="//neyu.com/neyu/neyu.js"></script>
         <title>讷鱼</title>
 
@@ -100,7 +101,15 @@
 </head>
 
 <body>
-
+	
+<script>
+if ('serviceWorker' in navigator) {
+	window.addEventListener('load', function() {
+		navigator.serviceWorker.register('/sw.js');
+	});
+}
+</script>
+	
     <table width="100%" height="100%" cellpadding="0" cellspacing="0">
         <tbody>
             <tr>
