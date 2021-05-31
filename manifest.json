@@ -1,7 +1,7 @@
 {
     "orientation": "portrait",
-    "theme_color": "#1fb5ad",
-    "background_color": "#f1f2f7",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone",
     "name": "讷鱼",
     "start_url": "/?app",
