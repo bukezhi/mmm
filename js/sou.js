@@ -37,7 +37,7 @@ $(document).ready(function() {
         },
         '4':{
             id      :4,
-            title   :"多吉",
+            title   :"多吉没了",
             url     :"https://www.dogedoge.com/results",
             name    :"q",
             img     :"./icon/doge_ico.png",
@@ -73,10 +73,10 @@ $(document).ready(function() {
             explain :"哔哩哔哩 (゜-゜)つロ 干杯~",
         },
         '3':{
-            title   :"墨灵音乐",
-            url     :"https://ziyouyinyue.com/app/player",
+            title   :"每日一文",
+            url     :"https://meiriyiwen.com/",
             img     :"./icon/guozhi.ico",
-            explain :"墨灵音乐",
+            explain :"每日一文",
         },
 
         '4':{
