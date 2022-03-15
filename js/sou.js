@@ -73,9 +73,9 @@ $(document).ready(function() {
             explain :"哔哩哔哩 (゜-゜)つロ 干杯~",
         },
         '3':{
-            title   :"每日一文",
-            url     :"https://meiriyiwen.com/",
-            img     :"./icon/guozhi.ico",
+            title   :"抖音网页",
+            url     :"https://www.douyin.com/",
+            img     :"./icon/dy.ico",
             explain :"每日一文",
         },
 
@@ -130,20 +130,20 @@ $(document).ready(function() {
             title   :"股市日历",
             url     :"https://xueqiu.com/hq",
             img     :"./icon/mg.ico",
-            explain :"新股申购，可转债申购等数据",
+            explain :"股票今天跌了多少",
         },
         '12':{
-            title   :"蜻蜓FM",
-            url     :"https://m.qingting.fm/",
-            img     :"./icon/fm.ico",
+            title   :"网页快手",
+            url     :"https://www.kuaishou.com/",
+            img     :"./icon/ks.ico",
             explain :"蜻蜓FM",
         },
 
         '13':{
-            title   :"在线翻译",
-            url     :"https://www.deepl.com/translator",
-            img     :"./icon/fanyi.ico",
-            explain :"在线翻译",
+            title   :"每日一文",
+            url     :"https://meiriyiwen.com/",
+            img     :"./icon/guozhi.ico",
+            explain :"每日一文",
         },
 
         '14':{
