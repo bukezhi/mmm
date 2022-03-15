@@ -61,7 +61,7 @@ $(document).ready(function() {
     //主页快捷方式【预设】
     var quick_list_preinstall = {
         '1':{
-            title   :"全屏显示",
+            title   :"特斯拉全屏",
             url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zone/?baomihua.com",
             img     :"./neyu/48.png",
             explain :"特斯拉全屏显示",
@@ -94,9 +94,9 @@ $(document).ready(function() {
         },
         '6':{
             title   :"韩剧TV",
-            url     :"https://www.hanjutv.com/",
+            url     :"https://www.kan.cc/",
             img     :"./icon/hanjutv.ico",
-            explain :"韩剧TV",
+            explain :"看韩剧",
         },
 
         '7':{
@@ -128,7 +128,7 @@ $(document).ready(function() {
         },
         '11':{
             title   :"股市日历",
-            url     :"http://hq.miaogu.com/shuju/tzrl/m.html",
+            url     :"https://xueqiu.com/hq",
             img     :"./icon/mg.ico",
             explain :"新股申购，可转债申购等数据",
         },
@@ -148,7 +148,7 @@ $(document).ready(function() {
 
         '14':{
             title   :"历史今天",
-            url     :"http://www.todayonhistory.com/index.php",
+            url     :"https://hao.360.com/histoday/",
             img     :"./icon/lishi.png",
             explain :"历史上的今天",
         },
