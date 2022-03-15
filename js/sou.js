@@ -63,7 +63,7 @@ $(document).ready(function() {
         '1':{
             title   :"全屏显示",
             url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zone/?baomihua.com",
-            img     :"./icon/t.ico",
+            img     :"./icon/tsl.png",
             explain :"特斯拉全屏显示",
         },
         '2':{
