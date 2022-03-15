@@ -61,9 +61,9 @@ $(document).ready(function() {
     //主页快捷方式【预设】
     var quick_list_preinstall = {
         '1':{
-            title   :"特斯拉全屏",
+            title   :"全屏显示",
             url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zone/?baomihua.com",
-            img     :"./neyu/48.png",
+            img     :"./neyu/tsl.ico",
             explain :"特斯拉全屏显示",
         },
         '2':{
