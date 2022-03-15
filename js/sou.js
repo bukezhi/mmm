@@ -61,10 +61,10 @@ $(document).ready(function() {
     //主页快捷方式【预设】
     var quick_list_preinstall = {
         '1':{
-            title   :"随机博客",
-            url     :"https://neyu.com/blog.html",
+            title   :"全屏显示",
+            url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zong/?baomihua.com",
             img     :"./neyu/48.png",
-            explain :"游向某一片海洋",
+            explain :"特斯拉全屏显示",
         },
         '2':{
             title   :"哔哩哔哩",
@@ -88,7 +88,7 @@ $(document).ready(function() {
 
         '5':{
             title   :"电视直播",
-            url     :"http://ivi.bupt.edu.cn/",
+            url     :"https://tv.cctv.com/live/index.shtml",
             img     :"./icon/tv.png",
             explain :"手机端不适配，放大找链接即可",
         },
