@@ -62,7 +62,7 @@ $(document).ready(function() {
     var quick_list_preinstall = {
         '1':{
             title   :"全屏显示",
-            url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zong/?baomihua.com",
+            url     :"https://v.qq.com/search_redirect.html?url=https://www.baomihua.com/go.aspx?url=https://mmm.zone/?tsl",
             img     :"./neyu/48.png",
             explain :"特斯拉全屏显示",
         },
