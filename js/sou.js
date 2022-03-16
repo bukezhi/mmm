@@ -1,15 +1,3 @@
-/*
-作者:D.Young
-主页：https://yyv.me/
-github：https://github.com/5iux/sou
-日期：2019-07-26
-版权所有，请勿删除
-❶❷❸❹❺❻❼❽❾❿
-由 yeetime 修改
-github：https://github.com/yeetime/sou2
-日期：2019-12-13
-*/
-
 $(document).ready(function() {
 
     //搜索引擎列表【预设】
@@ -76,7 +64,7 @@ $(document).ready(function() {
             title   :"抖音网页",
             url     :"https://www.douyin.com/",
             img     :"./icon/dy.ico",
-            explain :"每日一文",
+            explain :"抖音视频在线看",
         },
 
         '4':{
@@ -90,7 +78,7 @@ $(document).ready(function() {
             title   :"电视直播",
             url     :"https://tv.cctv.com/live/index.shtml",
             img     :"./icon/tv.png",
-            explain :"手机端不适配，放大找链接即可",
+            explain :"CCTV电视直播网页版",
         },
         '6':{
             title   :"韩剧TV",
@@ -136,7 +124,7 @@ $(document).ready(function() {
             title   :"网页快手",
             url     :"https://www.kuaishou.com/",
             img     :"./icon/ks.ico",
-            explain :"蜻蜓FM",
+            explain :"网页快手视频随心看",
         },
 
         '13':{
