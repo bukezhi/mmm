@@ -1,7 +1,7 @@
 # mmm.zong
 讷鱼🐟，游向某一片海洋…
 
-<b>访问：https://mmm.zong/</b>
+<b>访问：https://mmm.zone</b>
 
 在全网的博客中，会随机跳转一个博客，作为访问。
 
